@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cat.itacademy.s04.t01.n01.S04T01N01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.797 s -- in cat.itacademy.s04.t01.n01.S04T01N01ApplicationTests
